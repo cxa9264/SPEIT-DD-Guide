@@ -10,3 +10,4 @@ jobs:
         uses: reviewdog/action-markdownlint@v0.1
         with:
           github_token: ${{ secrets.PERSONAL_TOKEN }}
+          filter_mode: nofilter
