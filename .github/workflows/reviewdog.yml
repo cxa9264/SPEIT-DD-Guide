@@ -5,11 +5,13 @@ on:
       - gh-pages
     paths-ignore:
      - '.github/**'
+     - 'archive/**'
   pull_request:
     branches-ignore:
       - gh-pages
     paths-ignore:
      - '.github/**'
+     - 'archive/**'
 
 jobs:
   markdownlint:

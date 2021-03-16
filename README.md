@@ -1,7 +1,8 @@
 # SPEIT-DD-Guide
 
-![发布状态](https://github.com/cxa9264/SPEIT-DD-Guide/workflows/Gitbook%20Action%20Build/badge.svg)
-![语法检查](https://github.com/cxa9264/SPEIT-DD-Guide/workflows/reviewdog/badge.svg)
+![发布状态](https://img.shields.io/github/workflow/status/cxa9264/SPEIT-DD-Guide/Gitbook%20Action%20Build?label=Gitbook%20Build)
+![语法检查](https://img.shields.io/github/workflow/status/cxa9264/SPEIT-DD-Guide/reviewdog?label=markdownlint)
+![最后更新](https://img.shields.io/github/last-commit/cxa9264/SPEIT-DD-Guide)
 
 [查看指南](https://cxa9264.github.io/SPEIT-DD-Guide/) | [参与贡献](./docs/how-to-contribute.md)
 
