@@ -4,7 +4,7 @@
 
 ## Step 1. 登录GitHub并Fork本仓库
 
-点击Fork按钮[![fork this repo](http://githubbadges.com/fork.svg?user=cxa9264&repo=SPEIT-DD-Guide)](http://github.com/cxa9264/SPEIT-DD-Guide/fork)将本仓库Fork到您的账号下。
+点击Fork按钮[![fork this repo](https://img.shields.io/github/forks/cxa9264/SPEIT-DD-Guide?style=social)](http://github.com/cxa9264/SPEIT-DD-Guide/fork)将本仓库Fork到您的账号下。
 
 ## Step 2. 进行修改和完善
 
