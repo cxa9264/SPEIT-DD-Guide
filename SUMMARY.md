@@ -7,3 +7,4 @@
 * [Télécom](docs/telecom.md)
 * [ENSTA](docs/ensta.md)
 * [Mines](docs/mines.md)
+* [参与贡献](docs/how-to-contribute.md)
