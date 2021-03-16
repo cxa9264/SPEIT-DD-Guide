@@ -1,5 +1,8 @@
 name: reviewdog
-on:  [push, pull_request]
+on:  [push, pull_request]:
+  branches-ignore:
+    - gh-pages
+
 jobs:
   markdownlint:
     name: runner / markdownlint
