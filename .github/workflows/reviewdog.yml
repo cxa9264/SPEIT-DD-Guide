@@ -3,9 +3,13 @@ on:
   push:
     branches-ignore:
       - gh-pages
+    paths-ignore:
+     - '.github/**'
   pull_request:
     branches-ignore:
       - gh-pages
+    paths-ignore:
+     - '.github/**'
 
 jobs:
   markdownlint:
