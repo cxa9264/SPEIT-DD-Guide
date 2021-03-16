@@ -12,5 +12,5 @@
 
 ### Step 3. 申请Pull Request到本仓库
 
-在你的Fork的仓库文件列表上方，单击Pull Request ![](https://docs.github.com/assets/images/help/pull_requests/pull-request-start-review-button.png)
+在你的Fork的仓库文件列表上方，单击`Pull Request` ![](https://docs.github.com/assets/images/help/pull_requests/pull-request-start-review-button.png)，再点击`Create Pull Request`，添加修改说明，最后点击`Create Pull Request`。
 
