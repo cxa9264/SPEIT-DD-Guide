@@ -5,6 +5,7 @@ on:
       - master  # trigger branch
     paths-ignore:
       - '.github/**'
+      - 'archive/**'
 jobs:
   build:
     runs-on: ubuntu-latest
