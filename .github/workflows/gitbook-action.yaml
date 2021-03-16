@@ -3,8 +3,6 @@ on:
   push:
     branches:
       - master  # trigger branch
-    paths-ignore:
-      - '.github/**'
 jobs:
   build:
     runs-on: ubuntu-latest
